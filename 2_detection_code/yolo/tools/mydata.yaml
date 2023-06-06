@@ -1,0 +1,7 @@
+train: #你的train.txt路径
+#eg: home//ty(你的linux用户名)//ul/yolo/data/train.txt
+val: #你的val.txt路径
+
+nc:    #你的class类别数，eg 1,2,3
+
+names:      #['你的标签名字']
